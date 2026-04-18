@@ -69,8 +69,7 @@ Deployment of applications using Docker for reproducible development environment
 > 📌 More projects available in my repositories.
 
 ---
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisDeveloper2002&show_icons=true&include_all_commits=true&count_private=true)
+
 
 ## 💻 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisDeveloper2002&layout=compact&langs_count=8)
