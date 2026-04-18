@@ -70,11 +70,7 @@ Deployment of applications using Docker for reproducible development environment
 
 ---
 
-## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisDeveloper2002&layout=compact)
-
----
 
 ## 🤝 Let's Connect!  
 
